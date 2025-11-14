@@ -19,9 +19,9 @@ I love to stay ahead in the AI space by constantly learning and implementing new
 - **GeeksforGeeks:** https://www.geeksforgeeks.org/user/smt2208/
 
 ## 🔥 Currently Learning
-- **Agentic AI** MCP, LangGraph 
-- **Deep Learning** Transformers, GAN's
-- **Deep Learning Libraries** Keras, Pytorch
+- **Agentic AI** : MCP, LangGraph 
+- **Deep Learning** : Transformers, GAN's
+- **Deep Learning Libraries** : Keras, Pytorch
 
 ## 📫 Let's Connect!
 - **LinkedIn:** www.linkedin.com/in/shyam-mohan-tripathi
