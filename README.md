@@ -27,7 +27,7 @@
 
 ## 🚀 About Me
 
-I'm a final-year B.Tech (ECE) undergraduate at **Heritage Institute of Technology**, passionate about building production-grade AI systems. I bridge the gap between cutting-edge research and scalable, observable backends.
+I'm a final-year B.Tech (ECE) undergraduate, passionate about building production-grade AI systems. I bridge the gap between cutting-edge research and scalable, observable backends.
 
 - 🔭 **Currently:** GenAI R&D Intern @ **Quantyra Analytics** – developing agentic assistants for AI marketing tools.
 - 🧠 **Focus:** Multi-agent orchestration, RAG pipelines, LLM fine-tuning, and inference optimization.
@@ -44,6 +44,7 @@ I'm a final-year B.Tech (ECE) undergraduate at **Heritage Institute of Technolog
 
 ### AI, Data & Infrastructure
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,docker,aws&theme=dark" alt="AI Data Infrastructure"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
 
 ### Frontend & Tools
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,git,github&theme=dark" alt="Frontend and Developer Tools"/>
@@ -67,7 +68,7 @@ A central orchestration platform that routes user intent across **Enterprise RAG
 - ☁️ Deployed on AWS EC2 with containerized services
 
 🔗 **Live Demo:** [praxis-ai-nine.vercel.app](https://praxis-ai-nine.vercel.app)  
-📂 **Source:** [github.com/smt2208/praxis](https://github.com/smt2208/praxis) *(if public)*
+📂 **Source:** [github.com/smt2208/praxis](https://github.com/smt2208/praxis)
 
 ---
 
@@ -97,8 +98,12 @@ A central orchestration platform that routes user intent across **Enterprise RAG
   <img src="https://github-readme-stats.vercel.app/api?username=smt2208&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
 </a>
 <a href="https://github.com/smt2208">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smt2208&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=smt2208&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
 </a>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smt2208&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="97%"/>
 
 </div>
 
