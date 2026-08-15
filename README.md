@@ -80,7 +80,7 @@ A central orchestration platform that routes user intent across **Enterprise RAG
 |----------------------|----------------------------------------------------------|
 | 🤖 **Agentic AI**    | Multi‑agent orchestration, LangGraph, MCP, tool calling  |
 | 🔍 **RAG**           | Hybrid retrieval, reranking, adaptive search pipelines   |
-| 🧬 **LLM Fine‑Tuning** | LoRA, QLoRA, Unsloth, Bengali NLP                      |
+| 🧬 **LLM Fine‑Tuning** | LoRA, QLoRA, Unsloth,                                  |
 | ⚡ **Inference**     | vLLM, optimized serving, scalable inference              |
 | 📊 **LLM Evaluation**| RAG & agent evaluation, hallucination analysis           |
 | 🏗️ **Backend**      | FastAPI, async systems, SSE, distributed services        |
