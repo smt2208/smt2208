@@ -88,19 +88,6 @@ A central orchestration platform that routes user intent across **Enterprise RAG
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/smt2208">
-  <img src="https://github-readme-stats.vercel.app/api?username=smt2208&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-</a>
-<a href="https://github.com/smt2208">
-  <img src="https://streak-stats.demolab.com/?user=smt2208&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
-</a>
-
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=smt2208&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="97%"/>
