@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20there,%20I'm%20Shyam%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20agentic%20AI%20systems%20that%20actually%20ship&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20there,%20I'm%20Shyam%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <a href="https://www.linkedin.com/in/shyam-mohan-tripathi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=800&height=40&lines=GenAI+R%26D+Intern+%40+Quantyra+Analytics;Building+Multi-Agent+%26+RAG+Systems;Fine-tuning+LLMs;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=800&height=40&lines=Building+Scalable+Systems;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -29,8 +29,7 @@
 
 I'm a final-year B.Tech (ECE) undergraduate, passionate about building production-grade AI systems. I bridge the gap between cutting-edge research and scalable, observable backends.
 
-- 🔭 **Currently:** GenAI R&D Intern @ **Quantyra Analytics** – developing agentic assistants for AI marketing tools.
-- 🧠 **Focus:** Multi-agent orchestration, RAG pipelines, LLM fine-tuning, and inference optimization.
+- 🧠 **Focus:** RAG pipelines, inference optimization, and backend architecture.
 - ⚡ **Philosophy:** Turn "cool demos" into shipping products.
 
 ---
@@ -42,9 +41,14 @@ I'm a final-year B.Tech (ECE) undergraduate, passionate about building productio
 ### Languages & Backend
 <img src="https://skillicons.dev/icons?i=python,java,c,fastapi,flask,nodejs&theme=dark" alt="Languages and Backend"/>
 
-### AI, Data & Infrastructure
+### AI, ML & Infrastructure
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,docker,aws&theme=dark" alt="AI Data Infrastructure"/>
+<br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 
 ### Frontend & Tools
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,git,github&theme=dark" alt="Frontend and Developer Tools"/>
@@ -72,19 +76,19 @@ A central orchestration platform that routes user intent across **Enterprise RAG
 
 ---
 
-## 🧠 AI & Research Interests
+## ⚙️ Technical Focus Areas
 
 <div align="center">
 
-| Area                 | What I'm Working On                                      |
+| Domain                 | Technologies & Concepts                                      |
 |----------------------|----------------------------------------------------------|
-| 🤖 **Agentic AI**    | Multi‑agent orchestration, LangGraph, MCP, tool calling  |
-| 🔍 **RAG**           | Hybrid retrieval, reranking, adaptive search pipelines   |
-| 🧬 **LLM Fine‑Tuning** | LoRA, QLoRA, Unsloth,                                  |
-| ⚡ **Inference**     | vLLM, optimized serving, scalable inference              |
-| 📊 **LLM Evaluation**| RAG & agent evaluation, hallucination analysis           |
-| 🏗️ **Backend**      | FastAPI, async systems, SSE, distributed services        |
-| ☁️ **Infrastructure**| Docker, AWS, production deployment                       |
+| 🤖 **GenAI**         | LangChain, LangGraph, Pydantic, Multi‑agent orchestration, Tool calling |
+| 📈 **Machine Learning**| Scikit-learn, Keras, Pandas, NumPy, Matplotlib, SciPy    |
+| 🔍 **RAG Systems**   | Vector Databases, Hybrid Search, Semantic Chunking, Reranking|
+| ⚡ **Inference**     | vLLM, API optimization, scalable model serving           |
+| 📊 **Evaluation**    | RAG assessment, hallucination analysis, output parsing       |
+| 🏗️ **Backend**      | FastAPI, async architecture, SSE, distributed systems        |
+| ☁️ **Infrastructure**| Docker, AWS, CI/CD, production deployment                  |
 
 </div>
 
@@ -102,7 +106,6 @@ A central orchestration platform that routes user intent across **Enterprise RAG
 
 <img src="https://img.shields.io/badge/MCP-Tool%20Orchestration-2C5364?style=for-the-badge" alt="MCP"/>
 <img src="https://img.shields.io/badge/vLLM-LLM%20Inference-00C6FF?style=for-the-badge" alt="vLLM"/>
-<img src="https://img.shields.io/badge/Unsloth-Fine--Tuning-2C5364?style=for-the-badge" alt="Unsloth"/>
 <img src="https://img.shields.io/badge/LLM%20Eval-Production%20AI-2C5364?style=for-the-badge" alt="LLM Evaluation"/>
 
 </div>
@@ -118,7 +121,7 @@ A central orchestration platform that routes user intent across **Enterprise RAG
   <td align="center" width="25%">
     <h3>🤖</h3>
     <b>AI Systems</b><br/>
-    Agentic workflows that solve real problems
+    GenAI workflows that solve real problems
   </td>
   <td align="center" width="25%">
     <h3>⚡</h3>
@@ -127,13 +130,13 @@ A central orchestration platform that routes user intent across **Enterprise RAG
   </td>
   <td align="center" width="25%">
     <h3>🧠</h3>
-    <b>Research</b><br/>
-    LLMs, RAG, fine‑tuning & evaluation
+    <b>Engineering</b><br/>
+    LLMs, RAG, and AI evaluation
   </td>
   <td align="center" width="25%">
     <h3>🚀</h3>
     <b>Shipping</b><br/>
-    Turning research into production
+    Turning prototypes into production
   </td>
 </tr>
 </table>
